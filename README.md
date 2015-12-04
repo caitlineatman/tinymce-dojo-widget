@@ -29,7 +29,7 @@ require([
 In your HTML body, create a div with a textarea nested within it to serve as the placeholder for your TinyMCE box.
 ```html
 <div id="tinymceBox">
-  <textarea id="tinymceTextarea"></textarea
+  <textarea id="tinymceTextarea"></textarea>
 </div>
 ```
 To add the widget programmatically:
